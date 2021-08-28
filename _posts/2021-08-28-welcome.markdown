@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "First post"
+date:   2021-08-28 18:26:38 +0200
+categories: meta
+---
+Hello,
+
+This is the first post on what is now my blog for my notes and thoughts I want available or to share.
